@@ -1,0 +1,37 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header-container{
+    background-color: rgba(68, 62, 62, 0.433);
+    height: 150px;
+    margin-bottom: 2rem;
+}
+
+.header-text{
+    color: black;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.side-bar{
+    max-width: 600px;
+
+}
+
+.temp-box{
+    width: 100rem;
+    height: 18rem;
+}
+
+.weather-content{
+    width: 100rem;
+    height: 18rem;
+}
+
